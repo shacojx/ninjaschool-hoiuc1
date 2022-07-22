@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/shacojx/Desktop/Nja/src/com/hoiuc/template/MobTemplate.java</file>
+            <file>file:/C:/Users/shacojx/Desktop/Nja/src/com/hoiuc/cache/Part.java</file>
+            <file>file:/C:/Users/shacojx/Desktop/Nja/src/com/hoiuc/stream/Client.java</file>
+            <file>file:/C:/Users/shacojx/Desktop/Nja/src/com/hoiuc/io/SQLManager.java</file>
+            <file>file:/C:/Users/shacojx/Desktop/Nja/src/com/hoiuc/io/ISession.java</file>
+            <file>file:/C:/Users/shacojx/Desktop/Nja/src/com/hoiuc/assembly/PartyPlease.java</file>
+            <file>file:/C:/Users/shacojx/Desktop/Nja/src/com/hoiuc/io/Util.java</file>
+            <file>file:/C:/Users/shacojx/Desktop/Nja/src/com/hoiuc/assembly/Alert.java</file>
+            <file>file:/C:/Users/shacojx/Desktop/Nja/src/com/hoiuc/server/Manager.java</file>
+            <file>file:/C:/Users/shacojx/Desktop/Nja/src/com/hoiuc/cache/NpcCache.java</file>
+            <file>file:/C:/Users/shacojx/Desktop/Nja/src/com/hoiuc/stream/Cave.java</file>
+            <file>file:/C:/Users/shacojx/Desktop/Nja/src/com/hoiuc/assembly/Option.java</file>
+            <file>file:/C:/Users/shacojx/Desktop/Nja/src/com/hoiuc/assembly/Mob.java</file>
+            <file>file:/C:/Users/shacojx/Desktop/Nja/src/com/hoiuc/stream/Dun.java</file>
+            <file>file:/C:/Users/shacojx/Desktop/Nja/src/com/hoiuc/assembly/Level.java</file>
+            <file>file:/C:/Users/shacojx/Desktop/Nja/src/com/hoiuc/server/GameCanvas.java</file>
+            <file>file:/C:/Users/shacojx/Desktop/Nja/src/com/hoiuc/assembly/Npc.java</file>
+            <file>file:/C:/Users/shacojx/Desktop/Nja/src/com/hoiuc/server/GameSrc.java</file>
+            <file>file:/C:/Users/shacojx/Desktop/Nja/src/com/hoiuc/io/Message.java</file>
+            <file>file:/C:/Users/shacojx/Desktop/Nja/src/com/hoiuc/cache/ItemCache.java</file>
+            <file>file:/C:/Users/shacojx/Desktop/Nja/src/com/hoiuc/assembly/User.java</file>
+            <file>file:/C:/Users/shacojx/Desktop/Nja/src/com/hoiuc/io/IMessageHandler.java</file>
+            <file>file:/C:/Users/shacojx/Desktop/Nja/src/com/hoiuc/cache/MapCache.java</file>
+            <file>file:/C:/Users/shacojx/Desktop/Nja/src/com/hoiuc/stream/Admin.java</file>
+            <file>file:/C:/Users/shacojx/Desktop/Nja/src/com/hoiuc/server/ShinwaManager.java</file>
+            <file>file:/C:/Users/shacojx/Desktop/Nja/src/com/hoiuc/assembly/Char.java</file>
+            <file>file:/C:/Users/shacojx/Desktop/Nja/src/com/hoiuc/assembly/Waypoint.java</file>
+            <file>file:/C:/Users/shacojx/Desktop/Nja/src/com/hoiuc/server/Service.java</file>
+            <file>file:/C:/Users/shacojx/Desktop/Nja/src/com/hoiuc/cache/PartImage.java</file>
+            <file>file:/C:/Users/shacojx/Desktop/Nja/src/com/hoiuc/server/NinjaSchool.java</file>
+            <file>file:/C:/Users/shacojx/Desktop/Nja/src/com/hoiuc/server/Ip.java</file>
+            <file>file:/C:/Users/shacojx/Desktop/Nja/src/com/hoiuc/template/TaskTemplate.java</file>
+            <file>file:/C:/Users/shacojx/Desktop/Nja/src/com/hoiuc/cache/ItemOptionCache.java</file>
+            <file>file:/C:/Users/shacojx/Desktop/Nja/src/com/hoiuc/cache/MobCache.java</file>
+            <file>file:/C:/Users/shacojx/Desktop/Nja/src/com/hoiuc/assembly/Item.java</file>
+            <file>file:/C:/Users/shacojx/Desktop/Nja/src/com/hoiuc/server/Cmd.java</file>
+            <file>file:/C:/Users/shacojx/Desktop/Nja/src/com/hoiuc/template/SkillTemplate.java</file>
+            <file>file:/C:/Users/shacojx/Desktop/Nja/src/com/hoiuc/assembly/ItemDefault.java</file>
+            <file>file:/C:/Users/shacojx/Desktop/Nja/src/com/hoiuc/assembly/Admission.java</file>
+            <file>file:/C:/Users/shacojx/Desktop/Nja/src/com/hoiuc/assembly/Party.java</file>
+        </group>
+    </open-files>
+</project-private>
